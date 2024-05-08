@@ -13,29 +13,29 @@
 /* Feel free to change any of the styling below!*/
 html,
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 /* Style the body with a background color or image if desired */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #88B7D2;
     text-align: center;
     padding: 20px;
 }
 
 /* Style the title of your story */
 .title {
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
     margin-bottom: 20px;
 }
 
 /* Style the story opening container */
 .story-opening {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: #75E573;
+    border: 1px solid #6DE76C;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -81,7 +81,7 @@ button:hover {
 .option-two-screen,
 .option-one-end,
 .option-two-end {
-    background-color: #fff;
+    background-color: #854141;
     border: 1px solid #ccc;
     padding: 20px;
     border-radius: 10px;
@@ -104,6 +104,7 @@ button:hover {
 .option-two-screen h1,
 .option-one-end h1,
 .option-two-end h1 {
-    font-size: 20px;
+
+  font-size: 20px;
     margin-bottom: 20px;
 }
